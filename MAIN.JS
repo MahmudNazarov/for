@@ -5,5 +5,7 @@ for (let i = 0; i < numbers.length; i++) {
         evenNumbers.push(numbers[i]);
     }
 }
-console.log("Числа:" , numbers);
-console.log("Четные числа:", evenNumbers);
+alert(`Sonlar: ${numbers}`);
+console.log("Sonlar:" , numbers);
+alert(`Juft sonlar: ${evenNumbers}`);
+console.log("Juft sonlar:" , evenNumbers);
